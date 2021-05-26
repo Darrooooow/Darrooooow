@@ -1,4 +1,4 @@
-<h1 align="center">E aí, eu sou o Kim, também conhecido como Darrow 👋😎</h1>
+<h1 align="center">E aí, eu sou o Kim, mais conhecido como Darrow 👋😎</h1>
 
 ### Sobre mim
 
