@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">E aí, eu sou o Kim, também conhecido como Darrow 👋😎</h1>
 
-<!--
-**Darrooooow/Darrooooow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou trabalhando na <a href="https://github.com/alura-cursos">Alura</a>;
+- 🌱 Aprendendo um pouco sobre modelagem 3D;
+- ⚡ Fato curioso: Eu zerei a trilogia Dark Souls.
+- ⌨️ O que sei e o que estou aprendendo: HTML, CSS, JavaScript, ReactJS, Sass, Styled-Components, Next.JS, TypeScript, Node.js e Discord.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### Onde me encontrar
+
+- ✉️ E-mail: me@darrow.xyz
+- 🎮 Discord: Darrow#9826
+- 🐤 Twitter: darrou12
