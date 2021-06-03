@@ -1,8 +1,10 @@
 <img align="right" src="https://github.com/darrow12/darrow12/blob/main/images/undraw_programming_2svr.svg" width="410"/>
 
 <h1 align="center">Hello world, eu sou o Kim, mais conhecido como Darrow 👋😎</h1>
-E assim como a grande maioria, eu sou apenas mais um jovem de 17 anos que leva a programação web como um hobby e faz algumas coisinhas de vez em quando só pra falar que tem conteúdo no GitHub.
+E assim como a grande maioria, eu sou apenas mais um jovem de 17 anos que leva a programação web como um hobby e faz alguns projetos de vez em quando só pra falar que tem conteúdo aqui.
 
+<br />
+<br />
 <br />
 
 ## Mais coisas sobre mim
