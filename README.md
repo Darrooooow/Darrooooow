@@ -17,4 +17,5 @@ E assim como a grande maioria, eu sou apenas mais um jovem de 17 anos que leva a
 ## Onde me encontrar
 
 - 🎮 Discord: Darrow#9826
-- 🐤 Twitter: darrou12
+- 🐤 Twitter: @darrou12
+- 👨‍💻 DEV Community: <a href="https://dev.to/darrow">Darrow</a>
