@@ -9,7 +9,7 @@ E assim como a grande maioria, eu sou apenas mais um jovem de 17 anos que leva a
 
 ## Mais coisas sobre mim
 
-- 🔭 Atualmente estou trabalhando na <a href="https://github.com/alura-cursos" target="_blank">Alura</a>;
+- 🔭 Atualmente estou trabalhando na <a href="https://www.alura.com.br" target="_blank">Alura</a>;
 - 🌱 Aprendendo um pouco sobre modelagem 3D;
 - ⚡ Fato curioso: Eu zerei a trilogia Dark Souls (Sim, minha vida não é tão interessanate assim);
 - ⌨️ Eu sei/estou aprendendo: HTML, CSS, JavaScript, ReactJS, Sass, Styled-Components, Next.JS, TypeScript, Node.js e Discord.js.
