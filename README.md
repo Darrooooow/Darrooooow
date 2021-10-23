@@ -12,7 +12,7 @@ E assim como a grande maioria, eu sou apenas mais um jovem de 17 anos que leva a
 - 🔭 Atualmente estou trabalhando na <a href="https://www.alura.com.br" target="_blank">Alura</a> (não como dev);
 - 🌱 Aprendendo um pouco sobre UX/UI Design;
 - ⚡ Fato curioso: Eu sei tocar a guitarra do Guitar Hero;
-- ⌨️ Eu sei/estou fuçando: HTML, CSS, JavaScript, ReactJS, Sass, Styled-Components, Next.JS, TypeScript, Node.js e Discord.js.
+- ⌨️ Eu sei/estou fuçando: HTML, CSS, JavaScript, ReactJS, Next.JS, Sass e Discord.js.
 
 ## Onde me encontrar
 
