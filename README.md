@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/darrow12/darrow12/blob/main/images/undraw_programming_2svr.svg" width="410"/>
 
 <h1 align="center">Hello world, eu sou o Kim, mais conhecido como Darrow 👋😎</h1>
-E assim como a grande maioria, eu sou apenas mais um jovem de 17 anos que leva a programação web como um hobby e faz alguns projetos de vez em quando só pra falar que tem conteúdo aqui.
+E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>adulto</b> de 18 anos que leva a programação web como um hobby e faz alguns projetos de vez em quando só pra falar que tem conteúdo aqui.
 
 <br />
 <br />
@@ -10,9 +10,9 @@ E assim como a grande maioria, eu sou apenas mais um jovem de 17 anos que leva a
 ## Mais coisas sobre mim
 
 - 🔭 Atualmente estou trabalhando na <a href="https://www.alura.com.br" target="_blank">Alura</a> (não como dev);
-- 🌱 Aprendendo um pouco sobre UX/UI Design;
-- ⚡ Fato curioso: Eu sei tocar a guitarra do Guitar Hero;
-- ⌨️ Eu sei/estou fuçando: HTML, CSS, JavaScript, ReactJS, Next.JS, Sass e Discord.js.
+- 🌱 Aprendendo um pouco sobre UX/UI Design, PHP e Acessibilidade na web;
+- ⚡ Fato curioso: Sei fazer Finger Pass com a caneta;
+- ⌨️ Eu sei/estou fuçando: HTML, CSS, JavaScript, ReactJS e Styled-components
 
 ## Onde me encontrar
 
