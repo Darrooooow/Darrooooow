@@ -21,3 +21,9 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 - 👨‍💻 DEV Community: <a href="https://dev.to/darrow">Darrow</a>
 - 📄 Medium: <a href="https://medium.com/@darrow12">Kim</a>
 - 💻 CodePen: <a href="https://codepen.io/darrow12">Kim</a>
+
+## GitHub Stats
+<a href="https://github.com/darrow12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darrow12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darrow12&layout=compact&langs_count=8&theme=dracula"/>
+</a>
