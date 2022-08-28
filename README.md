@@ -30,3 +30,4 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darrow12&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darrow12&layout=compact&langs_count=8&theme=nord"/>
 </a>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=darrow12&theme=nord&hide_border=true"/>
