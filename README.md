@@ -27,7 +27,7 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 ## 📊 GitHub Stats
 
 <a href="https://github.com/darrow12">
-  <img width="1180em" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=darrow12&theme=nord&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=darrow12&theme=nord&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darrow12&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darrow12&layout=compact&langs_count=8&theme=nord&hide_border=true"/>
 </a>
