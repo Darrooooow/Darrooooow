@@ -25,7 +25,8 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 - <a href="https://medium.com/@darrow12/4-plataformas-gratuitas-para-aprender-programa%C3%A7%C3%A3o-f49b61642a80">4 plataformas gratuitas para aprender programação</a>
 
 ## 📊 GitHub Stats
+
 <a href="https://github.com/darrow12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darrow12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darrow12&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darrow12&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darrow12&layout=compact&langs_count=8&theme=nord"/>
 </a>
