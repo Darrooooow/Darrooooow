@@ -22,7 +22,7 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 - 💻 CodePen: <a href="https://codepen.io/darrow12">Kim</a>
 
 ## 📕 Últimas postagens do blog
-- <a href="https://medium.com/@darrow12/porqu%C3%AA-todos-deveriam-aprender-programa%C3%A7%C3%A3o-1880143b3c5">Porquê todos deveriam aprender programação</a> (mais recente)
+- <a href="https://medium.com/@darrow12/porqu%C3%AA-todos-deveriam-aprender-programa%C3%A7%C3%A3o-1880143b3c5">Porquê todos deveriam aprender programação</a>
 - <a href="https://medium.com/@darrow12/4-plataformas-gratuitas-para-aprender-programa%C3%A7%C3%A3o-f49b61642a80">4 plataformas gratuitas para aprender programação</a>
 
 ## 📊 GitHub Stats
