@@ -1,7 +1,9 @@
 <img align="right" src="https://github.com/darrow12/darrow12/blob/main/images/undraw_programming_2svr.svg" width="410"/>
 
 <h1 align="center">Olá, eu sou o Kim, mais conhecido como Darrow 👋😎</h1>
-E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>adulto</b> de 18 anos que leva a programação web como um hobby e faz alguns projetos de vez em quando só pra falar que tem conteúdo aqui.
+E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>adulto</b> de 18 anos que leva a programação web como um hobby e faz alguns projetos de vez em quando só pra falar que tem conteúdo aqui. <a href="README.md">English Readme</a>
+  ·
+  <a href="README-pt.md">Portuguese Readme</a>
 
 <br />
 <br />
