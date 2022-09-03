@@ -9,7 +9,7 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 
 ## 🪐 Mais coisas sobre mim
 
-- 🔭 Atualmente estou trabalhando na <a href="https://www.alura.com.br" target="_blank">Alura</a> (não como dev);
+- 🔭 Atualmente estou trabalhando na <a href="https://www.alura.com.br" target="_blank">Alura</a>;
 - 🌱 Aprendendo um pouco sobre UX/UI Design;
 - ⚡ Fato curioso: sei fazer finger pass com a caneta;
 
