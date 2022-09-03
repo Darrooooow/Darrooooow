@@ -13,7 +13,7 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 - 🌱 Aprendendo um pouco sobre UX/UI Design;
 - ⚡ Fato curioso: sei fazer finger pass com a caneta;
 
-## 🌐 Onde me encontrar
+## 🔎 Onde me encontrar
 
 - 🐤 Twitter: <a href="https://twitter.com/darrou12">@darrou12</a>
 - 👨‍💻 DEV Community: <a href="https://dev.to/darrow">Darrow</a>
