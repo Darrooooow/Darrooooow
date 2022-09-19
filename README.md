@@ -13,13 +13,6 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 - 🌱 Aprendendo um pouco sobre UX/UI Design;
 - ⚡ Fato curioso: sei fazer finger pass com a caneta;
 
-## 🔎 Onde me encontrar
-
-- 🐤 Twitter: <a href="https://twitter.com/darrou12">@darrou12</a>
-- 👨‍💻 DEV Community: <a href="https://dev.to/darrow">Darrow</a>
-- 📄 Medium: <a href="https://medium.com/@darrow12">Kim</a>
-- 💻 CodePen: <a href="https://codepen.io/darrow12">Kim</a>
-
 ## 📕 Últimas postagens do blog
 - <a href="https://medium.com/@darrow12/porqu%C3%AA-todos-deveriam-aprender-programa%C3%A7%C3%A3o-1880143b3c5">Porquê todos deveriam aprender programação</a>
 - <a href="https://medium.com/@darrow12/4-plataformas-gratuitas-para-aprender-programa%C3%A7%C3%A3o-f49b61642a80">4 plataformas gratuitas para aprender programação</a>
@@ -30,4 +23,22 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=darrow12&theme=nord&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darrow12&layout=compact&langs_count=8&theme=nord&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darrow12&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
+</a>
+
+----
+
+<a href="https://twitter.com/darrou12">
+  <img align="left" alt="Darrow's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/748FAC" />
+</a>
+<a href="https://linkedin.com/in/kimfreitas12">
+  <img align="left" alt="Darrow's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/748FAC" />
+</a>
+<a href="https://medium.com/@darrow12">
+  <img align="left" alt="Darrow's Medium" width="20px" src="https://simpleicons.vercel.app/medium/748FAC" />
+</a>
+<a href="https://dev.to/darrow">
+  <img align="left" alt="Darrow's Dev Community" width="20px" src="https://simpleicons.vercel.app/devdotto/748FAC" />
+</a>
+<a href="https://codepen.io/darrow12">
+  <img align="left" alt="Darrow's CodePen" width="20px" src="https://simpleicons.vercel.app/codepen/748FAC" />
 </a>
