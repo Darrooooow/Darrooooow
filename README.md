@@ -34,11 +34,17 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 <a href="https://linkedin.com/in/kimfreitas12">
   <img align="left" alt="Darrow's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/748FAC" />
 </a>
+<a href="https://dribbble.com/darrow">
+  <img align="left" alt="Darrow's Dribbble" width="20px" src="https://simpleicons.now.sh/dribbble/748FAC" />
+</a>
 <a href="https://medium.com/@darrow12">
   <img align="left" alt="Darrow's Medium" width="20px" src="https://simpleicons.vercel.app/medium/748FAC" />
 </a>
 <a href="https://dev.to/darrow">
   <img align="left" alt="Darrow's Dev Community" width="20px" src="https://simpleicons.vercel.app/devdotto/748FAC" />
+</a>
+<a href="https://www.youtube.com/darrow1210">
+  <img align="left" alt="Darrow's YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/748FAC" />
 </a>
 <a href="https://codepen.io/darrow12">
   <img align="left" alt="Darrow's CodePen" width="20px" src="https://simpleicons.vercel.app/codepen/748FAC" />
