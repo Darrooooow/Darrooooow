@@ -9,9 +9,10 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 
 ## 🪐 Mais coisas sobre mim
 
-- 🔭 Atualmente estou trabalhando na <a href="https://www.alura.com.br" target="_blank">Alura</a>;
-- 🌱 Aprendendo um pouco sobre UX/UI Design;
-- ⚡ Fato curioso: sei fazer finger pass com a caneta;
+- 🔭 Atualmente estou trabalhando na <a href="https://www.alura.com.br" target="_blank">Alura</a>
+- 🌱 Aprendendo um pouco sobre UX/UI Design
+- 🎓 Estou me graduando em Engenharia de Software
+- ⚡ Fato curioso: sei fazer finger pass com a caneta
 
 ## 📕 Últimas postagens do blog
 - <a href="https://medium.com/@darrow12/porqu%C3%AA-todos-deveriam-aprender-programa%C3%A7%C3%A3o-1880143b3c5">Porquê todos deveriam aprender programação</a>
