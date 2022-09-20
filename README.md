@@ -14,17 +14,23 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 - 🎓 Estou me graduando em Engenharia de Software
 - ⚡ Fato curioso: sei fazer finger pass com a caneta
 
+<br />
+
 ## 📕 Últimas postagens do blog
 - <a href="https://medium.com/@darrow12/porqu%C3%AA-todos-deveriam-aprender-programa%C3%A7%C3%A3o-1880143b3c5">Porquê todos deveriam aprender programação</a>
 - <a href="https://medium.com/@darrow12/4-plataformas-gratuitas-para-aprender-programa%C3%A7%C3%A3o-f49b61642a80">4 plataformas gratuitas para aprender programação</a>
 
-## 📊 GitHub Stats
+<br />
 
-<a href="https://github.com/darrow12">
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br/>
+  <a href="https://github.com/darrow12">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=darrow12&theme=nord&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darrow12&layout=compact&langs_count=8&theme=nord&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darrow12&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
 </a>
+</details>
 
 ----
 
