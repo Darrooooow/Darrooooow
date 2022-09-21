@@ -17,7 +17,7 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 <br />
 
 ## 📕 Últimas postagens do blog
-- (NOVO) ![Comandos divertidos para usar no seu terminal Linux!](https://medium.com/@darrow12/comandos-divertidos-para-usar-no-seu-terminal-linux-a6c481d9d1d7)
+- (NOVO) ![Comandos divertidos para usar no seu terminal Linux!](https://medium.com/@darrow12/comandos-divertidos-para-usar-no-seu-terminal-linux-a6c481d9d1d7) | [agora disponível em inglês!](https://dev.to/darrow/fun-commands-to-use-in-your-linux-terminal-4igc) <img src="https://github.com/darrow12/Pop_OS-posInstall/blob/main/.github/us.png" height="12">
 - <a href="https://medium.com/@darrow12/porqu%C3%AA-todos-deveriam-aprender-programa%C3%A7%C3%A3o-1880143b3c5">Porquê todos deveriam aprender programação</a>
 - <a href="https://medium.com/@darrow12/4-plataformas-gratuitas-para-aprender-programa%C3%A7%C3%A3o-f49b61642a80">4 plataformas gratuitas para aprender programação</a>
 
