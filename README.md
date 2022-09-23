@@ -24,6 +24,34 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 <br />
 
 <details>
+  <summary><b>💻 Tech stack e ferramentas</b></summary>
+  <br/>
+  
+  🤿 **Tecnologias:**
+  - HTML5
+  - CSS3
+  - JavaScript
+
+  **🤓 Estudando:**
+  - ReactJS
+  - TailwindCSS
+  - Sass
+  - MySQL
+  - Node.js (de vez em nunca)
+  - Shell Script
+
+  **🔬 Ferramentas:**
+  - Git
+  - Figma
+  - Photoshop
+  - Blender
+  - Linux
+  - Notion
+</details>
+
+<br/>
+
+<details>
   <summary><b>📊 GitHub Stats</b></summary>
   <br/>
   <a href="https://github.com/darrow12">
