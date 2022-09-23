@@ -49,7 +49,6 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
   - Notion
 </details>
 
-<br/>
 
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
