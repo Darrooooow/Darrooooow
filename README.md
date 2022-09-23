@@ -25,7 +25,6 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 
 <details>
   <summary><b>💻 Tech stack</b></summary>
-  <br/>
   
   ### 🤿 Tecnologias:
   - HTML5
