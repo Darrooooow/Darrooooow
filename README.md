@@ -27,12 +27,12 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
   <summary><b>💻 Tech stack</b></summary>
   <br/>
   
-  🤿 **Tecnologias:**
+  ### 🤿 Tecnologias:
   - HTML5
   - CSS3
   - JavaScript
 
-  **🤓 Estudando:**
+  ### 🤓 Estudando:
   - ReactJS
   - TailwindCSS
   - Sass
@@ -40,7 +40,7 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
   - Node.js (de vez em nunca)
   - Shell Script
 
-  **🔬 Ferramentas:**
+  ### 🔬 Ferramentas:
   - Git
   - Figma
   - Photoshop
