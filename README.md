@@ -7,7 +7,7 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 <br />
 <br />
 
-## 🪐 Mais coisas sobre mim
+## 🪐 Algumas curiosidades sobre mim
 
 - 🔭 Atualmente estou trabalhando na <a href="https://www.alura.com.br" target="_blank">Alura</a>;
 - 🌱 Aprendendo um pouco sobre UX/UI Design;
