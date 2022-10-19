@@ -12,7 +12,7 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 - 🔭 Atualmente estou trabalhando na <a href="https://www.alura.com.br" target="_blank">Alura</a>;
 - 🌱 Aprendendo um pouco sobre UX/UI Design;
 - 🎓 Estou me graduando em Engenharia de Software;
-- ⚡ Fato curioso: sei fazer finger pass com a caneta;
+- ⚡ Fato curioso: sei fazer finger pass com uma caneta;
 
 <br />
 
