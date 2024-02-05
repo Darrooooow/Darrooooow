@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/darrow12/darrow12/blob/main/images/undraw_programming_2svr.svg" width="410"/>
 
-<h1 align="center">Olá, eu sou o Kim, mais conhecido como Darrow 👋😎</h1>
-E assim como a grande maioria, eu sou apenas mais um <b>adulto</b> de 20 anos que leva a programação web como um hobby e faz alguns projetos de vez em quando só pra falar que tem conteúdo aqui.
+<h1 align="center">Olá, prazer, me chamo Kim Freitas 👋😎</h1>
+E assim como a grande maioria, eu sou apenas mais um <b>adulto</b> de 20 anos, graduando em Análise e Desenvolvimento de Sistemas na FIAP que ama programação e está em busca da primeira oportunidade no mercado como desenvolvedor front-end.
 
 <br />
 <br />
