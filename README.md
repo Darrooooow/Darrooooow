@@ -62,9 +62,6 @@ E assim como a grande maioria, eu sou apenas mais um <strike>jovem</strike> <b>a
 
 ----
 
-<a href="https://twitter.com/darrou12">
-  <img align="left" alt="Darrow's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/748FAC" title="Perfil no Twitter" />
-</a>
 <a href="https://linkedin.com/in/kimfreitas12">
   <img align="left" alt="Darrow's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/748FAC" title="Perfil no LinkedIn" />
 </a>
